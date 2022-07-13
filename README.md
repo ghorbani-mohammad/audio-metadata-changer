@@ -1,9 +1,9 @@
-# Audio Metadata Changer
+## Audio Metadata Changer
 
 So I needed to change some of my audio files and guess what? I created this python script. It gets a absolute path, and inside that path read all audio files and change their names to their title metadata.
 
-## How work with it?
-```
+## Usage
+```bash
 git clone git@github.com:ghorbani-mohammad/audio-metadata-changer.git
 
 cd audio-metadata-changer
@@ -15,3 +15,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python code.py
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
