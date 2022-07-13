@@ -1,7 +1,6 @@
 import os
 import eyed3
 
-path = "/mnt/c/Users/Mohammad/Desktop/all-ears-english/english-fluency/"
 path = input("Please enter path of mp3 directory: ")
 files = os.listdir(path)
 eyed3.log.setLevel("ERROR")

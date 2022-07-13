@@ -15,6 +15,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python code.py
+
+# example path would be:
+# /mnt/c/Users/Mohammad/Desktop/all-ears-english/english-fluency/
 ```
 
 ## License
